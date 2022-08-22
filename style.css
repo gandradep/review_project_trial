@@ -1,0 +1,60 @@
+*{
+  margin:0;
+  padding: 0;
+
+}
+div.nav{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;%;
+  width: 100%;
+}
+div.main{
+  display: flex;
+  padding: 20px;
+  width:100%;
+}
+div.searchPart{
+  width:40%;
+}
+form input{
+  width:70%;
+}
+div.signIn{
+  width:10%;
+
+
+}
+div.video{
+  box-sizing: border-box;
+  width:80%;
+
+}
+.video iframe{
+  width:85%;
+  padding-left: 10%;
+  height:500px;
+
+}
+div.barRight{
+  box-sizing: border-box;
+  width:20%;
+}
+div.icon{
+  display: flex;
+  padding: 15px 0;
+  justify-content: space-between;
+  width: 100%;
+}
+
+div.imageBar{
+box-sizing: border-box;
+width: 35%;
+height: 60px;
+background-color: red;
+}
+div.iconInfo{
+  box-sizing: border-box;
+  width: 65%;
+  padding: 0 5px;
+}
